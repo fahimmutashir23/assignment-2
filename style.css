@@ -356,9 +356,6 @@
     .play-content{
         text-align: center;
     }
-    .games{
-        display: none;
-    }
 }
 
 
@@ -392,8 +389,5 @@
   
     .play-content{
         text-align: center;
-    }
-    .games{
-        display: none;
     }
 }
