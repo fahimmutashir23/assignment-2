@@ -130,10 +130,7 @@
     margin-bottom: 3rem;
     text-align: center;
 }
-.cart{
-    height: 450px;
-    border: 1px solid black;
-}
+
 .cart-grp{
     display: flex;
     gap: 1.5rem;
@@ -145,7 +142,6 @@
     text-align: left;
     font-size: 1rem;
     margin-top: 10px;
-    height: calc(100% - 200px);
 }
 .cart .multiply-content img{
     width: 50px;
