@@ -245,6 +245,7 @@
 .g-logo{
     display: flex;
     align-items: center;
+    
     gap: 1rem;
     padding: 10px;
     transition: all 0.3s;
@@ -367,6 +368,9 @@
     .play-content{
         text-align: center;
     }
+    .g-logo{
+        width: 120px;
+    }
     .g-logo img{
         width: 40px;
     }
@@ -404,14 +408,16 @@
         flex: 100%;
     }
     .footer-content ul,
-    .footer .icons,
-    .games-grp
+    .footer .icons
     {
         flex-wrap: wrap;
     }
   
     .play-content{
         text-align: center;
+    }
+    .g-logo{
+        width: 160px;
     }
     .g-logo img{
         width: 40px;
