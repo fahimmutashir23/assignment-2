@@ -370,6 +370,14 @@
     .g-logo img{
         width: 40px;
     }
+
+    .btn-grp button{
+        padding: 8px 16px;
+        font-size: 1rem;
+    }
+    .btn-grp .go{
+        margin-left: 1rem;
+    }
 }
 
 
